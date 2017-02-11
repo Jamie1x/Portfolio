@@ -1,5 +1,13 @@
+body {
+  background-image: url("images/bg.jpg");
+}
+
+.container {
+  background-color:#ffffff
+}
+
 .navbar-default {
-  background: #04ff00;
+  background: #ff0000;
   border-color: #6b6b6b;
 }
 .navbar-default .navbar-brand {
@@ -18,7 +26,7 @@
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #fdfdfd;
-  background: #33cc33;
+  background: #cc0000;
 }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
